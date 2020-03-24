@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  24 MAR 2020 19:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  24 MAR 2020 19:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -45,31 +45,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-] (/Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.toc)
-\tf@toc=\write3
-\openout3 = `book.toc'.
-
- [3]
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 \openout2 = `chapter1.tex.aux'.
 
 
 No file chapter1.tex.tex.
 (/Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.aux (/Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/chapter1.tex.aux)) ) 
 Here is how much of TeX's memory you used:
- 247 strings out of 492616
- 3748 string characters out of 6129482
+ 238 strings out of 492616
+ 3514 string characters out of 6129482
  60252 words of memory out of 5000000
- 4240 multiletter control sequences out of 15000+600000
- 6108 words of font info for 22 fonts, out of 8000000 for 9000
+ 4236 multiletter control sequences out of 15000+600000
+ 5150 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  22i,6n,19p,183b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "/Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.pdf" (3 pages, 27502 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "/Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.pdf" (1 page, 18893 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

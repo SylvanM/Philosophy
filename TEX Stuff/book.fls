@@ -21,16 +21,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 OUTPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.pdf
 INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.toc
-INPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.toc
-OUTPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.toc
 OUTPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/chapter1.tex.aux
 INPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/book.aux
 INPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/chapter1.tex.aux
 INPUT /Users/sylvanm/Documents/School/Debate/Philosophies/Philosophy/TEX Stuff/chapter1.tex.aux
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
