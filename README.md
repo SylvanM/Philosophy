@@ -2,7 +2,7 @@
 
 ## Read this book
 
-First release of this book is [here](https://github.com/SylvanM/Philosophy/releases/tag/0.1.0 "First Release")
+First release of this book is [here](https://github.com/SylvanM/Philosophy/releases/tag/1.0.0 "First Release")
 
 ## Why does this exist?
 I do Lincoln Douglas (LD) high school debate. In LD, cases are written around a central framework, which is often some
