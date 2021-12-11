@@ -1,10 +1,24 @@
 # Philosophy
 
-## Read this book
+This is where I have a lot of my writings available online, either for class or for fun. Please cite anything used from here!
+I'm also putting them here so I can cite myself when I re-use ideas from earlier works of mine.
+
+## Conventions for using this Wring
+
+Please feel free to use my philosophy, just be sure to cite it properly or whatever.
+
+Some of the work here is under the pseuodonym "Lee" (as to not give away directly that I wrote it in the middle of my debate round).
+
+Just as the adjective for morality under Kant's ideas are "Kantian", let my system of philosophy be known as "Leesian".
+
+## Books in this Repository
+
+### What it is to be
+
+This was a book written for my debate club.
 
 First release of this book is [here](https://github.com/SylvanM/Philosophy/releases/tag/1.0.0 "First Release")
 
-## Why does this exist?
 I do Lincoln Douglas (LD) high school debate. In LD, cases are written around a central framework, which is often some
 sort of philosophical framework dictating how we decide what actions are "moral" or "desirable" or whatever.
 
@@ -20,14 +34,7 @@ written work in the public domain.
 
 So here it is. I am writing this in spite of those who told me I couldn't write my own.
 
-## Conventions for using this Philosophy
+### Finding Friendship in the Absence of Universal Values
 
-Please feel free to use my philosophy, just be sure to cite it properly or whatever.
+This was a paper I wrote for a writing seminar in college, about friendship in a liberal society.
 
-I am writing this under the pseuodonym "Lee" (as to not give away directly that I wrote it in the middle of my debate round).
-
-Just as the adjective for morality under Kant's ideas are "Kantian", let my system of philosophy be known as "Leesian".
-
-## This book
-
-I am Lee, and this is my book "What it is to be."
